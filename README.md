@@ -1,0 +1,1 @@
+# kibana with nested plugin
