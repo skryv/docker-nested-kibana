@@ -1,4 +1,4 @@
-FROM docker.elastic.co/kibana/kibana-oss:6.4.2
+FROM docker.elastic.co/kibana/kibana-oss:6.8.15
 EXPOSE 5601
 
 # install Kibana nested fields plugin
